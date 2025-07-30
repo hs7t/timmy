@@ -16,6 +16,7 @@ It took me a bit to arrive at this design, and I'm quite fond of
 it! Everything fits together using heatset inserts for 4 M3 bolts.
 
 ![An angled top view of a macropad with 9 switches and two rotary encoders](./assets/case.png)
+![An angled top view of the macropad's body](./assets/body.png)
 
 ## PCB
 
@@ -23,11 +24,12 @@ The PCB was designed in KiCAD. It's my first PCB ever, so it might
 not be that great!
 
 ![A render of PCB assembled with various components, including a microcontroller, two rotary encoders, and various switches](./assets/built.png)
-![A stylized view of a screenshot of a part of the schematic for the PCB](./assets/schematic.png)
+![S screenshot of the schematic for the PCB](./assets/schematic.png)
 
 This board is double-layered and has a ground copper fill.
 
-![Renders for the PCB without components from front and behind angles](./assets/pcb.png)
+![Renders for the PCB without components from front and behind angles](./assets/pcb_render.png)
+![2D drawings of the PCB, front and back](./assets/pcb.png)
 
 ## Materials
 
